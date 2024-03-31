@@ -8,9 +8,10 @@ for (let i = 2; i <= 100; i++) {
                 a = false;
                 break;
             }
+            
         }
         if (a) {
-            console.log(i);
+            console.log(i) 
         }
     }
 }
